@@ -35,8 +35,9 @@ source device/$BOARD/boardconfig.sh
 source build/milkvsetup.sh
 defconfig $CONFIG
 
-echo "Updating Kernel /duo-buildroot-sdk/build/boards/$CHIP_SEGMENT/$CONFIG/linux/*milkv*_defconfig"
-cat /build/kernel.conf >> /duo-buildroot-sdk/build/boards/$CHIP_SEGMENT/$CONFIG/linux/cvitek_cv1800b_milkv_duo_sd_defconfig
+#echo "Updating Kernel /duo-buildroot-sdk/build/boards/$CHIP_SEGMENT/$CONFIG/linux/*milkv*_defconfig"
+#changes already in my duo github sdk
+#cat /build/kernel.conf >> /duo-buildroot-sdk/build/boards/$CHIP_SEGMENT/$CONFIG/linux/*milkv*_defconfig
 
 clean_all
 build_all
