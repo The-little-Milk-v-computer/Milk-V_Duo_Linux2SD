@@ -20,12 +20,6 @@ clone https://github.com/logicethos/Milk-V_Duo_Linux2SD.git
 cd Milk-V_Duo_Linux2SD
 ./run.sh
 ```
+![image](https://github.com/Milk-V-Meshtastic/Milk-V_Duo_Linux2SD/assets/22388007/78b05c91-27fc-4dcc-a81d-8822374a48a1)
 
-#### Custom builds
-Copy one of the existing directorys, and edit the files.
 
-```
-ENV - Distro vairables.
-bootstrap.sh - This is run within your new envirment during the build.
-```
-Make sure `export ROOTFS_SIZE=“1G”` is large enough for your bootstrap.sh needs.
