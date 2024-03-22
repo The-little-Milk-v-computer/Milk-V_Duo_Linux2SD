@@ -1,7 +1,7 @@
-Credit to the Orignal Milk-V Commity Member for the development of this OS builder
+Credit goes to the Orignal Milk-V Community Member for the development of this OS builder (logicethos)
 https://github.com/logicethos/Milk-V_Duo_Linux2SD
 
-# Milk-V Duo Debian/Ubuntu Image builder
+# Milk-V Duo Debian/Ubuntu Image builder modified for use with Meshtastic
 
 - Menu driven selection
 - Writes to SD Card & expands partition
