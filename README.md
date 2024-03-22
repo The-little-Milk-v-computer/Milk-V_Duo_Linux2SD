@@ -1,3 +1,6 @@
+Credit to the Orignal Milk-V Commity Member for the development of this OS builder
+https://github.com/logicethos/Milk-V_Duo_Linux2SD
+
 # Milk-V Duo Debian/Ubuntu Image builder
 
 - Menu driven selection
