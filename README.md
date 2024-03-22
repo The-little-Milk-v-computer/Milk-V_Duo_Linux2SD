@@ -1,6 +1,8 @@
 Credit goes to the Orignal Milk-V Community Member for the development of this OS builder (logicethos)
 https://github.com/logicethos/Milk-V_Duo_Linux2SD
 
+https://community.milkv.io/t/milk-v-duo-debian-ubuntu-image-builder/1424
+
 # Milk-V Duo Debian/Ubuntu Image builder modified for use with Meshtastic
 
 - Menu driven selection
