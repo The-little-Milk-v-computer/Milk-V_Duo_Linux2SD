@@ -20,6 +20,7 @@ git clone https://github.com/Milk-V-Meshtastic/Milk-V_Duo_Linux2SD
 cd Milk-V_Duo_Linux2SD
 ./run.sh
 ```
-![image](https://github.com/Milk-V-Meshtastic/Milk-V_Duo_Linux2SD/assets/22388007/78b05c91-27fc-4dcc-a81d-8822374a48a1)
+![image](https://github.com/Milk-V-Meshtastic/Milk-V_Duo_Linux2SD/assets/22388007/b2c96c17-ad9c-4582-a47d-3e5a6db27e00)
+
 
 
