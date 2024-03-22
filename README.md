@@ -3,7 +3,7 @@ https://github.com/logicethos/Milk-V_Duo_Linux2SD
 
 https://community.milkv.io/t/milk-v-duo-debian-ubuntu-image-builder/1424
 
-# Milk-V Duo Ubuntu Image builder modified for use with Meshtastic
+# Milk-V Duo (64 and 256 mb) Ubuntu Jammy Image builder modified for use with Meshtastic
 
 - Menu driven selection
 - Writes to SD Card & expands partition
