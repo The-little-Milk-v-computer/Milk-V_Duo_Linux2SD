@@ -16,7 +16,7 @@ https://community.milkv.io/t/milk-v-duo-debian-ubuntu-image-builder/1424
 
 ### To Run
 ```
-clone https://github.com/Milk-V-Meshtastic/Milk-V_Duo_Linux2SD
+git clone https://github.com/Milk-V-Meshtastic/Milk-V_Duo_Linux2SD
 cd Milk-V_Duo_Linux2SD
 ./run.sh
 ```
