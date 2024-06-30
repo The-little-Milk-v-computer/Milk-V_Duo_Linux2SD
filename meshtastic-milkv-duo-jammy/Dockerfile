@@ -24,7 +24,8 @@ RUN update-ca-certificates
 WORKDIR /
 #RUN git clone https://github.com/milkv-duo/duo-buildroot-sdk.git --depth=1
 #my duo sdk github
-RUN git clone https://github.com/Milk-V-Meshtastic/duo-buildroot-sdk --depth=1
+#RUN git clone https://github.com/Milk-V-Meshtastic/duo-buildroot-sdk --depth=1
+RUN git clone https://github.com/The-little-Milk-v-computer/duo-buildroot-sdk.git --depth=1
 
 WORKDIR duo-buildroot-sdk
 RUN wget https://sophon-file.sophon.cn/sophon-prod-s3/drive/23/03/07/16/host-tools.tar.gz
