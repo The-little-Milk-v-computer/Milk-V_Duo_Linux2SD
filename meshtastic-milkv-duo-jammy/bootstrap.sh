@@ -37,7 +37,8 @@ systemctl enable zram-config
 apt install -y -q libgpiod-dev libyaml-cpp-dev libbluetooth-dev gpiod \
                   python3-full virtualenv git libssl-dev libsdl2-dev \
                   libulfius-dev nano neofetch avahi-daemon wget bluez \
-                  btop htop libinput-dev libxkbcommon-dev libgpiod2
+                  btop htop libinput-dev libxkbcommon-dev libgpiod2 \
+                  libx11-dev
 
 
 dd if=/dev/zero bs=1M of=swapfile count=192 status=progress;chmod 0600 swapfile;mkswap -f swapfile;
